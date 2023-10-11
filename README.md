@@ -1,6 +1,7 @@
 # PDFReportGenerator-Skeleton
 # Uso
-
+* Para comenzar a usar el generador correctamente haga la actualización de la base de datos usando el comando: `dotnet ef database update --project ./Persistence/ --startup-project ./API/
+`
 ### Generador de Reportes PDF (PdfGenerator.cs)
 A continuación se muestra el método que genera los reportes pdf
 ```
